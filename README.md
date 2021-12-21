@@ -4,4 +4,4 @@ The University Area Network design is about designing a topology of a network th
 
 This University Network design is to provide a well-connected, secure, reliable, dependable communication among different departments. Several departments can simply split the required data without any problem and can exchange their data without going physically to them thus conserving time and energy.
 
-In this project, I have designed a University Network using Cisco Packet Tracer that uses a networking topology implemented using servers, routers, switches, and end devices in a multiple area network. We have covered all the necessary features that are required for a network to function properly.
+In this project, I have designed a University Network using Cisco Packet Tracer that uses a networking topology implemented using servers, routers, switches, and end devices in a multiple area network. I have covered all the necessary features that are required for a network to function properly.
